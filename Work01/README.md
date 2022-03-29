@@ -3,7 +3,7 @@ Jogo da velha
 
 Requisitos obrigatorios 
 ```c
-// codgio em C jogo da velha
+// codgio em C: jogo da velha
 
 
 
